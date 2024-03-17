@@ -1,0 +1,231 @@
+repo_name: zzhilin/jekyll-theme-mdui
+report_id: 387bb6f658dc20f1cdcda013e526706a
+version: 0.1
+repo_type: Public
+timestamp: '2024-03-17T20:57:14+00:00'
+requested_by: KeJunMao
+provider: github
+branch: master
+detected_tools_count: 17
+tools:
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/zzhilin/jekyll-theme-mdui
+  detection_source: Repo Metadata
+- name: Ruby
+  description: A dynamic, interpreted, open source programming language with a focus
+    on simplicity and productivity
+  website_url: https://www.ruby-lang.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/zzhilin/jekyll-theme-mdui
+  detection_source: Repo Metadata
+- name: Bundler
+  description: A consistent environment for tracking and installing  gems and versions
+  website_url: http://bundler.io
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/2988/4e77LXIo_400x400.png
+  detection_source_url: https://github.com/zzhilin/jekyll-theme-mdui/blob/master/jekyll-theme-mdui.gemspec
+  detection_source: jekyll-theme-mdui.gemspec
+  last_updated_by: KeJun
+  last_updated_on: 2020-02-22 18:32:20.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/zzhilin/jekyll-theme-mdui
+  detection_source: Repo Metadata
+- name: RubyGems
+  description: Easily download, install, and use ruby software packages on your system
+  website_url: https://rubygems.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg
+  detection_source_url: https://github.com/zzhilin/jekyll-theme-mdui/blob/master/jekyll-theme-mdui.gemspec
+  detection_source: jekyll-theme-mdui.gemspec
+  last_updated_by: KeJun
+  last_updated_on: 2017-05-27 08:50:53.000000000 Z
+- name: Travis CI
+  description: A hosted continuous integration service for open source and private
+    projects
+  website_url: http://travis-ci.com/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/zzhilin/jekyll-theme-mdui/blob/master/.travis.yml
+  detection_source: ".travis.yml"
+  last_updated_by: KeJun
+  last_updated_on: 2017-05-29 07:15:06.000000000 Z
+- name: gulp
+  description: The streaming build system
+  website_url: http://gulpjs.com/
+  version: 3.9.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/844/iruTC031.png
+  detection_source_url: https://github.com/zzhilin/jekyll-theme-mdui/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: KeJun
+  last_updated_on: 2017-05-27 08:50:53.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/zzhilin/jekyll-theme-mdui/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: KeJun
+  last_updated_on: 2017-05-27 08:50:53.000000000 Z
+- name: jekyll
+  description: Jekyll is a simple, blog aware, static site generator
+  package_url: https://rubygems.org/jekyll
+  version: 4.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/18863/default_2fe576f13c88e20e645ee0a744c045ee730bcad6.png
+  detection_source_url: https://github.com/zzhilin/jekyll-theme-mdui/blob/master/Gemfile.lock
+  detection_source: jekyll-theme-mdui.gemspec
+  last_updated_by: KeJun
+  last_updated_on: 2020-02-22 18:32:20.000000000 Z
+- name: jekyll-feed
+  description: A Jekyll plugin to generate an Atom feed of your Jekyll posts
+  package_url: https://rubygems.org/jekyll-feed
+  version: 0.13.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/19149/default_b0a1033a29112f6f50b1dd3157e5fbf94dd2778a.png
+  detection_source_url: https://github.com/zzhilin/jekyll-theme-mdui/blob/master/Gemfile.lock
+  detection_source: Gemfile
+  last_updated_by: KeJun
+  last_updated_on: 2017-05-31 05:00:16.000000000 Z
+- name: jekyll-paginate
+  description: Built-in Pagination Generator for Jekyll
+  package_url: https://rubygems.org/jekyll-paginate
+  version: 1.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/19371/default_ac0591cdb829f62a4300d942f96aea1bb642351d.png
+  detection_source_url: https://github.com/zzhilin/jekyll-theme-mdui/blob/master/Gemfile.lock
+  detection_source: Gemfile
+  last_updated_by: KeJun
+  last_updated_on: 2017-05-31 05:00:16.000000000 Z
+- name: jekyll-sitemap
+  description: Automatically generate a sitemap.xml for your Jekyll site
+  package_url: https://rubygems.org/jekyll-sitemap
+  version: 1.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/19321/default_31ccb7684f50eae9f0c40cb9965cc32299f8935e.png
+  detection_source_url: https://github.com/zzhilin/jekyll-theme-mdui/blob/master/Gemfile.lock
+  detection_source: Gemfile
+  last_updated_by: KeJun
+  last_updated_on: 2017-05-31 05:00:16.000000000 Z
+- name: rake
+  description: Rake is a Make-like program implemented in Ruby
+  package_url: https://rubygems.org/rake
+  version: 12.3.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/18812/default_f582e4648f4682adb72d2b201218cda7f8e894ac.png
+  detection_source_url: https://github.com/zzhilin/jekyll-theme-mdui/blob/master/Gemfile.lock
+  detection_source: jekyll-theme-mdui.gemspec
+  last_updated_by: KeJun
+  last_updated_on: 2020-02-22 18:32:20.000000000 Z
+- name: browser-sync
+  description: Live CSS Reload &amp; Browser Syncing
+  package_url: https://www.npmjs.com/browser-sync
+  version: 2.18.12
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16034/default_a9b6ac3c2fe43713f9a8e43d4668d0352ad0d247.png
+  detection_source_url: https://github.com/zzhilin/jekyll-theme-mdui/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: KeJun
+  last_updated_on: 2017-05-27 08:50:53.000000000 Z
+- name: gulp-concat
+  description: Concatenates files
+  package_url: https://www.npmjs.com/gulp-concat
+  version: 2.6.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15973/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
+  detection_source_url: https://github.com/zzhilin/jekyll-theme-mdui/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: KeJun
+  last_updated_on: 2017-05-27 08:50:53.000000000 Z
+- name: gulp-sass
+  description: Gulp plugin for sass
+  package_url: https://www.npmjs.com/gulp-sass
+  version: 3.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16002/default_f8be85789693a9901dbcfa43c135c60525ae49a1.png
+  detection_source_url: https://github.com/zzhilin/jekyll-theme-mdui/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: KeJun
+  last_updated_on: 2017-05-27 08:50:53.000000000 Z
+- name: gulp-util
+  description: Utility functions for gulp plugins
+  package_url: https://www.npmjs.com/gulp-util
+  version: 3.0.8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15912/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
+  detection_source_url: https://github.com/zzhilin/jekyll-theme-mdui/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: KeJun
+  last_updated_on: 2017-05-27 08:50:53.000000000 Z
